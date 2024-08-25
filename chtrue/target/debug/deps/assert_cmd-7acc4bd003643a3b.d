@@ -1,0 +1,12 @@
+/home/chunt/Code/chutils/chtrue/target/debug/deps/libassert_cmd-7acc4bd003643a3b.rmeta: /home/chunt/.cargo/registry/src/index.crates.io-6f17d22bba15001f/assert_cmd-1.0.8/src/lib.rs /home/chunt/.cargo/registry/src/index.crates.io-6f17d22bba15001f/assert_cmd-1.0.8/src/assert.rs /home/chunt/.cargo/registry/src/index.crates.io-6f17d22bba15001f/assert_cmd-1.0.8/src/cargo.rs /home/chunt/.cargo/registry/src/index.crates.io-6f17d22bba15001f/assert_cmd-1.0.8/src/cmd.rs /home/chunt/.cargo/registry/src/index.crates.io-6f17d22bba15001f/assert_cmd-1.0.8/src/output.rs /home/chunt/.cargo/registry/src/index.crates.io-6f17d22bba15001f/assert_cmd-1.0.8/src/../README.md
+
+/home/chunt/Code/chutils/chtrue/target/debug/deps/libassert_cmd-7acc4bd003643a3b.rlib: /home/chunt/.cargo/registry/src/index.crates.io-6f17d22bba15001f/assert_cmd-1.0.8/src/lib.rs /home/chunt/.cargo/registry/src/index.crates.io-6f17d22bba15001f/assert_cmd-1.0.8/src/assert.rs /home/chunt/.cargo/registry/src/index.crates.io-6f17d22bba15001f/assert_cmd-1.0.8/src/cargo.rs /home/chunt/.cargo/registry/src/index.crates.io-6f17d22bba15001f/assert_cmd-1.0.8/src/cmd.rs /home/chunt/.cargo/registry/src/index.crates.io-6f17d22bba15001f/assert_cmd-1.0.8/src/output.rs /home/chunt/.cargo/registry/src/index.crates.io-6f17d22bba15001f/assert_cmd-1.0.8/src/../README.md
+
+/home/chunt/Code/chutils/chtrue/target/debug/deps/assert_cmd-7acc4bd003643a3b.d: /home/chunt/.cargo/registry/src/index.crates.io-6f17d22bba15001f/assert_cmd-1.0.8/src/lib.rs /home/chunt/.cargo/registry/src/index.crates.io-6f17d22bba15001f/assert_cmd-1.0.8/src/assert.rs /home/chunt/.cargo/registry/src/index.crates.io-6f17d22bba15001f/assert_cmd-1.0.8/src/cargo.rs /home/chunt/.cargo/registry/src/index.crates.io-6f17d22bba15001f/assert_cmd-1.0.8/src/cmd.rs /home/chunt/.cargo/registry/src/index.crates.io-6f17d22bba15001f/assert_cmd-1.0.8/src/output.rs /home/chunt/.cargo/registry/src/index.crates.io-6f17d22bba15001f/assert_cmd-1.0.8/src/../README.md
+
+/home/chunt/.cargo/registry/src/index.crates.io-6f17d22bba15001f/assert_cmd-1.0.8/src/lib.rs:
+/home/chunt/.cargo/registry/src/index.crates.io-6f17d22bba15001f/assert_cmd-1.0.8/src/assert.rs:
+/home/chunt/.cargo/registry/src/index.crates.io-6f17d22bba15001f/assert_cmd-1.0.8/src/cargo.rs:
+/home/chunt/.cargo/registry/src/index.crates.io-6f17d22bba15001f/assert_cmd-1.0.8/src/cmd.rs:
+/home/chunt/.cargo/registry/src/index.crates.io-6f17d22bba15001f/assert_cmd-1.0.8/src/output.rs:
+/home/chunt/.cargo/registry/src/index.crates.io-6f17d22bba15001f/assert_cmd-1.0.8/src/../README.md:
