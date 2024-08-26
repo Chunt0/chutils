@@ -9,16 +9,16 @@ fn main() {
     if args.len() > 1 {
         match args[1].as_str() {
             "--help" => {
-                println!("Usage: chtrue [OPTIONS]");
-                println!("Returns exit status of 0, always");
+                println!("Usage: chfalse [OPTIONS]");
+                println!("Returns exit status of 1, always");
                 println!("");
                 println!("OPTIONS:");
-                println!("--help\t\tReturns this help documentation");
+                println!("--help\t\tDisplays help documentation");
                 println!("");
                 println!("--version\tDisplays current version");
             }
             "--version" => {
-                println!("chtrue: {VERSION}");
+                println!("chfalse: {VERSION}");
             }
             _ => {
                 eprintln!("Unexpected arguement -> {}", args[1]);

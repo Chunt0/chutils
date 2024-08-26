@@ -1,6 +1,6 @@
 use std::env;
 
-const EXIT_FAILURE: i32 = 1;
+const EXIT_SUCCESS: i32 = 0;
 const VERSION: &str = "1.0";
 
 fn main() {
@@ -13,7 +13,7 @@ fn main() {
                 println!("Returns exit status of 0, always");
                 println!("");
                 println!("OPTIONS:");
-                println!("--help\t\tReturns this help documentation");
+                println!("--help\t\tDisplays this help documentation");
                 println!("");
                 println!("--version\tDisplays current version");
             }
@@ -26,5 +26,5 @@ fn main() {
             }
         };
     }
-    std::process::exit(EXIT_FAILURE);
+    std::process::exit(EXIT_SUCCESS);
 }
